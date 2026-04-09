@@ -56,7 +56,7 @@ We're not building another memecoin. We're building the intelligence that trades
 
 ---
 
-**Agent Wallet:** `GZnFNskqnCAoTHYuYFaZm3FQGaGHJ7CqVSphmGZnTia4`
+**Agent Wallet:** `6Z58vwiLdJ3SgYLuXqz9nJ6DkLhcFp1t7hWKVwEvvEPg`
 
 *Closed source. Private infrastructure. Public results.*
 
